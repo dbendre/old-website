@@ -30,6 +30,10 @@ header {
 #back {
     
     background-color: whitesmoke;
+    
+}
+
+body h1 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -39,16 +43,6 @@ header {
     color: palevioletred;
 }
 
-/*body h1 {
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 20px;
-    font-family: 'Alegreya Sans SC', sans-serif;
-    font-weight: 100;
-    letter-spacing: 40px;
-    color: palevioletred;
-}
-*/
 
 
 #container {
