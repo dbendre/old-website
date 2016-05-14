@@ -99,6 +99,8 @@ body h1 {
     display: inline-block;
     /*margin-bottom: 0px; */
     /*width: 100%; */
+    max-width: 10px;
+    max-height: auto;
     padding-right: 10px;
     border: solid;
     border-color: whitesmoke;
