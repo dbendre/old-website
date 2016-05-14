@@ -145,11 +145,11 @@ body h1 {
 }
 
 #imageDiv img {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     border-style: double;
     border-width: medium;
-    border-color: white;
+    border-color: lightgoldenrodyellow;
 }
 
 #textDiv {
