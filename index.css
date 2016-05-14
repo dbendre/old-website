@@ -68,6 +68,10 @@ body h1 {
     min-height: auto;
     
 }
+
+#WeatherDescription a[title~=A web based weather application powered by the Yahoo! Weather API] {
+    
+}
 /*
 .container {
     background-color: whitesmoke;
