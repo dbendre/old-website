@@ -64,6 +64,9 @@ body h1 {
     width: 100%;
     height: auto;
     
+    min-height: 100%;
+    min-width: auto;
+    
 }
 /*
 .container {
