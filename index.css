@@ -89,7 +89,7 @@ body h1 {
     border-color: whitesmoke;
 }
 
-#content2 p {
+#textDiv {
     position: relative;
     text-align: center;
     /*padding-top: 70px; */
