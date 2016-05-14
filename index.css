@@ -58,7 +58,11 @@ body h1 {
     -webkit-column-gap: 0px;
     column-count: 2;
     column-gap: 0px;
-    width: 1200px;
+    /*width: 1200px; */
+    width: 100%;
+    height: auto;
+    min-width: 200px;
+    min-height: auto;
     display: inline-block;
     
 }
