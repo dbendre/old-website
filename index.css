@@ -18,6 +18,10 @@ header {
     /*text-transform: uppercase; */
 }
 
+.navBar {
+    background-color: whitesmoke;
+}
+
 .navBar a:hover {
     background-color: #555;
     color: #fff;
@@ -79,12 +83,15 @@ body h1 {
     display: inline-block; */   
 }
 
-#imageDiv, #textDiv {
-    margin: 10px;
-}
+
 
 #allTheText {
-    display: inline;
+    display: inline-block;
+}
+
+#imageDiv, #textDiv {
+    margin: 10px;
+    display: inline-block;
 }
 
 /*
@@ -103,7 +110,7 @@ body h1 {
 #imageDiv {
     max-width: fixed;
     height: auto;
-    display: inline;
+    /*display: inline; */
     /*margin-bottom: 0px; */
     /*width: 100%; */
     max-width: 100%;
@@ -130,7 +137,7 @@ body h1 {
     font-size: 15px;
     /*padding: 3px; */
     padding-left: 5px;
-    display: inline;
+   /* display: inline; */
     
 }
 
