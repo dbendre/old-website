@@ -146,7 +146,7 @@ body h1 {
 }
 
 #imageDiv img {
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
     border-style: double;
     border-color: white;
