@@ -138,7 +138,9 @@ body h1 {
     border: solid;
     min-width: 100%;
     min-height: auto;
+    border: solid;
     border-color: whitesmoke;
+  
     vertical-align: middle;
 }
 
