@@ -43,14 +43,29 @@ body h1 {
 
 #allTheText {
     display: inline-block;
-}
-
-.container {
-    background-color: whitesmoke;
+     background-color: whitesmoke;
    /* width: 1200px; */
     margin: 0 auto;
     display: inline-block;
+    
+    padding: 10px;
+    -moz-column-count: 2;
+    -moz-column-gap: 0px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 0px;
+    column-count: 2;
+    column-gap: 0px;
+    vertical-align: middle;
+    display: inline-block;
+    
 }
+/*
+.container {
+    background-color: whitesmoke;
+   
+    margin: 0 auto;
+    display: inline-block;
+} */
 
 /*
 .content2 {
@@ -59,9 +74,11 @@ body h1 {
     display: inline-block;
 }
 */
+/*
 .content2 {
     /*padding-top: 10px;
     padding-bottom: 10px; */
+/*
     padding: 10px;
     -moz-column-count: 2;
     -moz-column-gap: 0px;
@@ -76,8 +93,9 @@ body h1 {
     height: auto; */
    /* min-width: 200px;
     min-height: auto; 
-    display: inline-block; */   
-}
+    display: inline-block; */  
+/*
+} */
 
 
 
