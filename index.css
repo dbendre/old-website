@@ -49,6 +49,7 @@ body h1 {
     background-color: whitesmoke;
    /* width: 1200px; */
     margin: 0 auto;
+    display: inline-block;
 }
 
 .content2 {
