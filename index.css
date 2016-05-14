@@ -150,7 +150,7 @@ body h1 {
     position: relative;
     text-align: center;
     /*padding-top: 70px; */
-    vertical-align: top;
+    vertical-align: middle;
     align-content: center;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 15px;
