@@ -135,11 +135,12 @@ body h1 {
     max-width: 100%;
     max-height: auto;
     padding-right: 10px;
-    border-style: hidden;
+    border-style: double;
+    border-color: white;
     min-width: 100%;
     min-height: auto;
     
-    border-color: white;
+    
   
     vertical-align: middle;
 }
@@ -147,7 +148,8 @@ body h1 {
 #imageDiv img {
     max-width: 100%;
     height: auto;
-    border-style: hidden;
+    border-style: double;
+    border-color: white;
 }
 
 #textDiv {
