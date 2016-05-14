@@ -83,6 +83,10 @@ body h1 {
     margin: 10px;
 }
 
+#allTheText {
+    display: inline-block;
+}
+
 /*
 .content2 img {
     /*padding: 10px; 
