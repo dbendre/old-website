@@ -135,10 +135,10 @@ body h1 {
     max-width: 100%;
     max-height: auto;
     padding-right: 10px;
-    border: solid;
+    border: hidden;
     min-width: 100%;
     min-height: auto;
-    border: solid;
+    
     border-color: whitesmoke;
   
     vertical-align: middle;
