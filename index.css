@@ -57,8 +57,9 @@ body h1 {
 }
 
 #content2 {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    /*padding-top: 10px;
+    padding-bottom: 10px; */
+    padding: 10px;
     -moz-column-count: 2;
     -moz-column-gap: 0px;
     -webkit-column-count: 2;
