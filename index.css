@@ -59,6 +59,7 @@ body h1 {
     column-count: 2;
     column-gap: 0px;
     width: 1200px;
+    display: inline-block;
     
 }
 
