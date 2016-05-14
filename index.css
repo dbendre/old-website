@@ -58,6 +58,7 @@ body h1 {
 
 #content2 {
     padding-top: 30px;
+    padding-bottom: 30px;
     -moz-column-count: 2;
     -moz-column-gap: 0px;
     -webkit-column-count: 2;
