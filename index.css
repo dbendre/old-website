@@ -135,7 +135,7 @@ body h1 {
     max-width: 100%;
     max-height: auto;
     padding-right: 10px;
-    border: hidden;
+    border-style: hidden;
     min-width: 100%;
     min-height: auto;
     
@@ -147,6 +147,7 @@ body h1 {
 #imageDiv img {
     max-width: 100%;
     height: auto;
+    border-style: hidden;
 }
 
 #textDiv {
