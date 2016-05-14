@@ -41,7 +41,9 @@ body h1 {
     color: palevioletred;
 }
 
-
+#allTheText {
+    display: inline-block;
+}
 
 .container {
     background-color: whitesmoke;
@@ -68,7 +70,7 @@ body h1 {
     column-count: 2;
     column-gap: 0px;
     vertical-align: middle;
-    display: inline;
+    display: inline-block;
     /*width: 1200px; */
    /* width: 100%;
     height: auto; */
@@ -79,9 +81,7 @@ body h1 {
 
 
 
-#allTheText {
-    display: inline-block;
-}
+
 
 #imageDiv, #textDiv {
     margin: 10px;
