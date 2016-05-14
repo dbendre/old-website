@@ -139,6 +139,7 @@ body h1 {
     min-width: 100%;
     min-height: auto;
     border-color: whitesmoke;
+    vertical-align: middle;
 }
 
 #imageDiv img {
