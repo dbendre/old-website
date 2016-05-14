@@ -30,9 +30,16 @@ header {
 #back {
     
     background-color: whitesmoke;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight: 100;
+    letter-spacing: 40px;
+    color: palevioletred;
 }
 
-body h1 {
+/*body h1 {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 20px;
@@ -41,7 +48,7 @@ body h1 {
     letter-spacing: 40px;
     color: palevioletred;
 }
-
+*/
 
 
 #container {
