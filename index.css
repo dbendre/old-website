@@ -45,8 +45,8 @@ body h1 {
 
 
 #container {
-   // background-color: whitesmoke;
-    width: 1200px;
+    background-color: whitesmoke;
+   /* width: 1200px; */
     margin: 0 auto;
 }
 
