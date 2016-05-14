@@ -107,7 +107,7 @@ body h1 {
 }
 
 #imageDiv img {
-    max-width: 10%;
+    max-width: 100%;
     height: auto;
 }
 
