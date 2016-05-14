@@ -77,8 +77,8 @@ body h1 {
     margin: 10px;
 }
 
-#content2 img {
-    padding: 10px;
+#imageDiv {
+   /* padding: 10px; */
     max-width: fixed;
     height: auto;
     display: inline-block;
