@@ -51,6 +51,12 @@ body h1 {
 }
 
 #content2 {
+    min-width: 200px;
+    min-height: auto; 
+    display: inline-block;
+}
+
+#content2 {
     padding-top: 30px;
     -moz-column-count: 2;
     -moz-column-gap: 0px;
