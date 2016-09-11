@@ -134,6 +134,8 @@ body h1 {
     /*display: inline; */
     /*margin-bottom: 0px; */
     /*width: 100%; */
+    position: fixed;
+    float: left;
     max-width: 100%;
     max-height: auto;
     padding-right: 10px;
