@@ -17,7 +17,7 @@ header {
     padding-left: 15px;
     padding-right: 10px;
     text-decoration: none;
-    
+
     /*text-transform: uppercase; */
 }
 
@@ -50,7 +50,7 @@ body h1 {
    /* width: 1200px; */
     margin: 0 auto;
     display: inline-block;
-    
+
     padding: 10px;
     -moz-column-count: 2;
     -moz-column-gap: 0px;
@@ -60,19 +60,19 @@ body h1 {
     column-gap: 0px;
     vertical-align: middle;
     display: inline-block;
-    
+
     width: 100%;
     height: auto;
-    
+
     min-width: 100%;
     min-height: auto;
-    
+
 }
 
 /*
 .container {
     background-color: whitesmoke;
-   
+
     margin: 0 auto;
     display: inline-block;
 } */
@@ -80,7 +80,7 @@ body h1 {
 /*
 .content2 {
     min-width: 200px;
-    min-height: auto; 
+    min-height: auto;
     display: inline-block;
 }
 */
@@ -102,28 +102,28 @@ body h1 {
    /* width: 100%;
     height: auto; */
    /* min-width: 200px;
-    min-height: auto; 
-    display: inline-block; */  
+    min-height: auto;
+    display: inline-block; */
 /*
 } */
 
 
 
 
-
+/* REMEBER TO CHANGE THIS
 #imageDiv, #textDiv {
     margin: 10px;
     display: inline-block;
     vertical-align: middle;
-}
+} */
 
 /*
 .content2 img {
-    /*padding: 10px; 
+    /*padding: 10px;
     max-width: fixed;
     height: auto;
     display: inline-block;
-    /*margin-bottom: 0px; 
+    /*margin-bottom: 0px;
     width: 100%;
     padding-right: 10px;
     border: solid;
@@ -131,8 +131,8 @@ body h1 {
 }
 */
 #imageDiv {
-    
- 
+
+
     /*display: inline; */
     /*margin-bottom: 0px; */
     /*width: 100%; */
@@ -140,12 +140,12 @@ body h1 {
     max-height: auto;
     padding-right: 10px;
     margin-right: 0px;
-    
+
     min-width: 100%;
     min-height: auto;
-    
-    
-  
+
+
+
     vertical-align: middle;
 }
 
@@ -173,7 +173,7 @@ body h1 {
     padding-top: 70px;
     margin-left: 0px;
    /* display: inline; */
-    
+
 }
 
 
