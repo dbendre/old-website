@@ -47,12 +47,19 @@ body h1 {
 #allTheText {
     /*display: inline-block; */
     background-color: whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    width: 100%;
+    height: auto;
+
+    min-width: 100%;
+    min-height: auto; /* Need this for the whitesmoke background */
    /* width: 1200px; */
     /* margin: 0 auto; GET RID OF THIS? */
     /*display: inline-block; */
 
-    padding-top: 10px;
-    padding-bottom: 10px;
+
 
     /*padding-left: 100px;
     padding-right: 100px; */
@@ -67,86 +74,18 @@ body h1 {
 
     GETTING RID OF THE COLUMN? */
   /*  display: inline-block; */
-
-
-    width: 100%;
-    height: auto;
-
-    min-width: 100%;
-    min-height: auto; /* Need this for the whitesmoke background */
-
 }
 
 /*
-.container {
-    background-color: whitesmoke;
-
-    margin: 0 auto;
-    display: inline-block;
-} */
-
-/*
-.content2 {
-    min-width: 200px;
-    min-height: auto;
-    display: inline-block;
-}
-*/
-/*
-.content2 {
-    /*padding-top: 10px;
-    padding-bottom: 10px; */
-/*
-    padding: 10px;
-    -moz-column-count: 2;
-    -moz-column-gap: 0px;
-    -webkit-column-count: 2;
-    -webkit-column-gap: 0px;
-    column-count: 2;
-    column-gap: 0px;
-    vertical-align: middle;
-    display: inline-block;
-    /*width: 1200px; */
-   /* width: 100%;
-    height: auto; */
-   /* min-width: 200px;
-    min-height: auto;
-    display: inline-block; */
-/*
-} */
-
-
-
-
-/* REMEBER TO CHANGE THIS
-#imageDiv, #textDiv {
-    margin: 10px;
-    display: inline-block;
-    vertical-align: middle;
-} */
-
-/*
-.content2 img {
-    /*padding: 10px;
-    max-width: fixed;
-    height: auto;
-    display: inline-block;
-    /*margin-bottom: 0px;
-    width: 100%;
-    padding-right: 10px;
-    border: solid;
-    border-color: whitesmoke;
-}
-*/
-#imageDiv {
+ #imageDiv {
     /*display: inline; */
     /*margin-bottom: 0px; */
-    /*width: 100%; */
+    /*width: 100%;
     position: relative;
     float: left;
     max-width: 100%;
     max-height: auto;
-    padding-right: 0px; /* originally 10 */
+    padding-right: 0px; /* originally 10
     margin-right: 0px;
 
     min-width: 100%;
@@ -158,7 +97,7 @@ body h1 {
 #imageDiv img {
   /*  max-width: 100%; from tt */
   /*  max-height: auto; from tt */
-  /*  min-width: 100%; */
+  /*  min-width: 100%;
 
     max-height: 55%;
     max-width: 55%;
@@ -177,22 +116,20 @@ body h1 {
     position: relative;
     float: right;
     text-align: center;
-    /*padding-top: 70px; */
+    /*padding-top: 70px;
     vertical-align: middle;
     align-content: center;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 15px;
-    /*padding: 3px; */
+    /*padding: 3px;
     padding-left: 0px; /* originally 5px */
 
     /*padding-top: 70px; */
     /*margin-left: 0px; */
 
-     /* supposed to center horizontally */
-
-
+     /* supposed to center horizontally
 }
-
+*/
 
 footer p{
     color: #B20431;
