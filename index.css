@@ -136,7 +136,7 @@ body h1 {
 */
 
 #imageDiv {
-  float: left;
+  /*float: left; */
 }
 
 #imageDiv img {
@@ -150,6 +150,8 @@ body h1 {
   border-style: double;
   border-width: 10px;
   border-color: white;
+
+  float: left;
 }
 
 #textDiv {
