@@ -64,7 +64,8 @@ body h1 {
     column-count: 2;
     column-gap: 0px;
     vertical-align: middle;
-    display: inline-block;
+  /*  display: inline-block; */
+    display: inline;
 
     width: 100%;
     height: auto;
