@@ -62,6 +62,8 @@ body h1 {
 #imageDiv {
   /*float: left; */
   margin: 0px;
+
+  margin-left: 30px;
 }
 
 #imageDiv img {
