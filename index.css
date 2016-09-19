@@ -143,6 +143,9 @@ body h1 {
   /*max-height: 20%;
   max-width: 20%; */
 
+  height: 50%;
+  width: 50%;
+
   /*height: auto; */
   border-style: double;
   border-width: 10px;
