@@ -52,8 +52,8 @@ body h1 {
     display: inline-block;
 
     padding: 10px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 150px;
+    padding-right: 150px;
 
     -moz-column-count: 2;
     -moz-column-gap: 0px;
