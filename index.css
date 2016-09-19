@@ -131,10 +131,19 @@ body h1 {
 }
 */
 
+#imageDiv img {
+  max-height: 55%;
+  max-width: 55%;
+
+  /*height: auto; */
+  border-style: double;
+  border-width: 10px;
+  border-color: white;
+}
+
 #textDiv {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 15px;
-
   text-align: center;
 }
 
