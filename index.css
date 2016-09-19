@@ -134,6 +134,8 @@ body h1 {
 #textDiv {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 15px;
+
+  vertical-align: middle;
 }
 
 footer p{
