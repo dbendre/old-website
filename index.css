@@ -46,16 +46,16 @@ body h1 {
 
 #allTheText {
     /*display: inline-block; */
-     background-color: whitesmoke;
+    background-color: whitesmoke;
    /* width: 1200px; */
     /* margin: 0 auto; GET RID OF THIS? */
     /*display: inline-block; */
-    display: inline-block;
 
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
+
+    /*padding-left: 100px;
+    padding-right: 100px; */
 
   /*  -moz-column-count: 2;
     -moz-column-gap: 0px;
@@ -73,7 +73,7 @@ body h1 {
     height: auto;
 
     min-width: 100%;
-    min-height: auto;
+    min-height: auto; /* Need this for the whitesmoke background */
 
 }
 
