@@ -131,6 +131,10 @@ body h1 {
 }
 */
 
+#imageDiv {
+  float: left;
+}
+
 #imageDiv img {
   max-height: 55%;
   max-width: 55%;
@@ -145,6 +149,8 @@ body h1 {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 15px;
   text-align: center;
+
+  float: right;
 }
 
 footer p{
