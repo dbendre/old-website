@@ -67,10 +67,10 @@ body h1 {
   /*  display: inline-block; */
     display: inline-block;
 
-    width: 50%;
+    width: 100%;
     height: auto;
 
-    min-width: 50%;
+    min-width: 100%;
     min-height: auto;
 
 }
