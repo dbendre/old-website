@@ -131,6 +131,11 @@ body h1 {
 }
 */
 
+#textDiv {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+}
+
 footer p{
     color: #B20431;
     font-family: 'Open Sans Condensed', sans-serif;
