@@ -45,11 +45,12 @@ body h1 {
 }
 
 #allTheText {
-    display: inline-block;
+    /*display: inline-block; */
      background-color: whitesmoke;
    /* width: 1200px; */
     margin: 0 auto;
-    display: inline-block;
+    /*display: inline-block; */
+    display: inline;
 
     padding-top: 10px;
     padding-bottom: 10px;
