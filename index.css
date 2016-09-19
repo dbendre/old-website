@@ -50,7 +50,7 @@ body h1 {
    /* width: 1200px; */
     /* margin: 0 auto; GET RID OF THIS? */
     /*display: inline-block; */
-    display: block;
+    display: inline-block;
 
     padding-top: 10px;
     padding-bottom: 10px;
@@ -188,8 +188,8 @@ body h1 {
     /*padding-top: 70px; */
     /*margin-left: 0px; */
 
-    margin: auto; /* supposed to center horizontally */
-    display: inline-block;
+     /* supposed to center horizontally */
+
 
 }
 
