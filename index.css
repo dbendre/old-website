@@ -65,12 +65,12 @@ body h1 {
     column-gap: 0px;
     vertical-align: middle;
   /*  display: inline-block; */
-    display: inline-grid;
+    display: inline-block;
 
-    width: 100%;
+    width: 50%;
     height: auto;
 
-    min-width: 100%;
+    min-width: 50%;
     min-height: auto;
 
 }
