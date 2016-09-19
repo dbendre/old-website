@@ -133,6 +133,8 @@ body h1 {
 
 #imageDiv {
   float: left;
+
+  display: inline;
 }
 
 #imageDiv img {
@@ -151,6 +153,7 @@ body h1 {
   text-align: center;
 
   float: right;
+  display: inline;
 }
 
 footer p{
