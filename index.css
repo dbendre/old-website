@@ -56,8 +56,8 @@ body h1 {
     min-width: 100%;
     min-height: auto; /* Need this for the whitesmoke background */
 
-    display: inline-block;;
-    clear: both;
+
+
 
    /* width: 1200px; */
     /* margin: 0 auto; GET RID OF THIS? */
@@ -137,14 +137,11 @@ body h1 {
 
 #imageDiv {
   float: left;
-  display: inline-block;;
-
-
 }
 
 #imageDiv img {
-  max-height: 20%;
-  max-width: 20%;
+  /*max-height: 20%;
+  max-width: 20%; */
 
   /*height: auto; */
   border-style: double;
@@ -159,7 +156,6 @@ body h1 {
 
   float: right;
 
-  display: inline-block;;
 }
 
 footer p{
