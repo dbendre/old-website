@@ -56,7 +56,7 @@ body h1 {
     min-width: 100%;
     min-height: auto; /* Need this for the whitesmoke background */
 
-    display: inline-block;
+    display: inline;
     clear: both;
 
    /* width: 1200px; */
@@ -137,7 +137,7 @@ body h1 {
 
 #imageDiv {
   float: left;
-
+  display: inline;
   clear: both;
 
 }
@@ -159,6 +159,7 @@ body h1 {
 
   float: right;
   clear: both;
+  display: inline;
 }
 
 footer p{
