@@ -159,6 +159,12 @@ body h1 {
   font-size: 15px;
   text-align: center;
 
+  width: 500%;
+  height: auto;
+
+  min-width: 50%;
+  min-height: auto; /* Need this for the whitesmoke background */
+
   float: right;
 
 }
