@@ -63,7 +63,7 @@ body h1 {
   /*float: left; */
   margin: 0px;
 
-  margin-left: 50px;
+  margin-left: 100px;
 }
 
 #imageDiv img {
@@ -95,7 +95,7 @@ body h1 {
   min-height: auto; /* Need this for the whitesmoke background */
 
   margin: 0px;
-  margin-right: 50px;
+  margin-right: 100px;
 
   float: right;
 
