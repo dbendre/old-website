@@ -48,7 +48,7 @@ body h1 {
     /*display: inline-block; */
      background-color: whitesmoke;
    /* width: 1200px; */
-    margin: 0 auto;
+    /* margin: 0 auto; GET RID OF THIS? */
     /*display: inline-block; */
     display: inline-block;
 
@@ -186,7 +186,7 @@ body h1 {
     padding-left: 0px; /* originally 5px */
 
     /*padding-top: 70px; */
-    margin-left: 0px;
+    /*margin-left: 0px; */
 
     margin: auto; /* supposed to center horizontally */
     display: inline-block;
