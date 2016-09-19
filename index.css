@@ -56,7 +56,7 @@ body h1 {
     min-width: 100%;
     min-height: auto; /* Need this for the whitesmoke background */
 
-    display: inline;
+    display: inline-block;;
     clear: both;
 
    /* width: 1200px; */
