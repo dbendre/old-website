@@ -61,6 +61,7 @@ body h1 {
 
 #imageDiv {
   /*float: left; */
+  margin: 0px;
 }
 
 #imageDiv img {
@@ -76,6 +77,8 @@ body h1 {
   border-color: white;
 
   float: left;
+
+  margin: 0px;
 }
 
 #textDiv {
@@ -88,6 +91,8 @@ body h1 {
 
   min-width: 50%;
   min-height: auto; /* Need this for the whitesmoke background */
+
+  margin: 0px;
 
   float: right;
 
