@@ -187,6 +187,8 @@ body h1 {
 
     /*padding-top: 70px; */
     margin-left: 0px;
+
+    margin: auto; /* supposed to center horizontally */
    /* display: inline; */
 
 }
