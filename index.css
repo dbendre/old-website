@@ -137,8 +137,8 @@ body h1 {
 
 #imageDiv {
   float: left;
-  display: inline;
-  clear: both;
+  display: inline-block;;
+
 
 }
 
@@ -158,8 +158,8 @@ body h1 {
   text-align: center;
 
   float: right;
-  clear: both;
-  display: inline;
+
+  display: inline-block;;
 }
 
 footer p{
